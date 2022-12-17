@@ -13,12 +13,10 @@ Esse projeto foi uma proposta da aula de sistemas digitais embarcados da univers
 
 ## 🔧 Funções
 
-- Guardar em uma memória at24c512 dados no formato de estruturas
-- Inserir dados como Nome, Telefone e Endereço
-- Remover dados com base no nome
-- Remover dados com base em telefone
-- Mostrar quantas pessoas estão registradas
-- Mostrar quanto de espaço ainda existe na memória
+- Setar ponto inicial
+- Setar ponto secundario
+- Calcular a diferença entre os pontos e devolver o resultado em centímetros
+
 
 ## 👨‍💻 Tecnologias Utilizadas
 
