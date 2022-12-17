@@ -1,7 +1,6 @@
 # Dispositivo para medição de distancia utilizando o sensor HC-SR04
 
-Este projeto utiliza um ESP8266 conectado à uma memória at24c512 para guardar dados de uma agenda telefonica
-
+Este projeto utiliza um ESP8266 conectado à um sensor HC-SR04 para medir a distância entre dois pontos
 
 ![6 (1)](https://user-images.githubusercontent.com/93664169/208249614-c6a02f3f-8205-477f-a7fc-f5449967f5a7.jpeg)
 
