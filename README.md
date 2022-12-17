@@ -2,7 +2,7 @@
 
 Este projeto utiliza um ESP8266 conectado à um sensor HC-SR04 para medir a distância entre dois pontos
 
-(![WhatsApp Image 2022-12-17 at 14 24 04](https://user-images.githubusercontent.com/79418523/208254994-8a023196-246d-47f2-bb32-89ccb631d7a8.jpeg))
+![WhatsApp Image 2022-12-17 at 14 24 04](https://user-images.githubusercontent.com/79418523/208254994-8a023196-246d-47f2-bb32-89ccb631d7a8.jpeg)
 
 
 
